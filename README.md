@@ -31,3 +31,4 @@ After updating the PATH, make sure to reload the profile:
 
 source ~/.bashrc
 
+https://www.jenkins.io/doc/tutorials/build-a-node-js-and-react-app-with-npm/
